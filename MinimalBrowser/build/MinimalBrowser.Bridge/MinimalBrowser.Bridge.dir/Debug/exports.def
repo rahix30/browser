@@ -1,0 +1,22 @@
+EXPORTS 
+	??_7_System_error@std@@6B@ 	 DATA
+	??_7bad_alloc@std@@6B@ 	 DATA
+	??_7bad_array_new_length@std@@6B@ 	 DATA
+	??_7bad_cast@std@@6B@ 	 DATA
+	??_7bad_weak_ptr@std@@6B@ 	 DATA
+	??_7exception@std@@6B@ 	 DATA
+	??_7failure@ios_base@std@@6B@ 	 DATA
+	??_7range_error@std@@6B@ 	 DATA
+	??_7runtime_error@std@@6B@ 	 DATA
+	??_7system_error@std@@6B@ 	 DATA
+	??_R0?AV_System_error@std@@@8 	 DATA
+	??_R0?AVbad_alloc@std@@@8 	 DATA
+	??_R0?AVbad_array_new_length@std@@@8 	 DATA
+	??_R0?AVbad_cast@std@@@8 	 DATA
+	??_R0?AVbad_weak_ptr@std@@@8 	 DATA
+	??_R0?AVexception@std@@@8 	 DATA
+	??_R0?AVfailure@ios_base@std@@@8 	 DATA
+	??_R0?AVrange_error@std@@@8 	 DATA
+	??_R0?AVruntime_error@std@@@8 	 DATA
+	??_R0?AVsystem_error@std@@@8 	 DATA
+	HelloFromBridge

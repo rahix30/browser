@@ -1,0 +1,36 @@
+# Ignore build outputs
+/bin
+/obj
+
+# Ignore Visual Studio files
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.cache
+*.pdb
+*.ilk
+*.log
+*.vs
+
+# Ignore .NET temporary files
+/Temporary ASP.NET Files/
+/obj/Debug/
+/obj/Release/
+/bin/Debug/
+/bin/Release/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore packages
+packages/
+
+# Ignore JetBrains products
+.idea/
+*.iml
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
