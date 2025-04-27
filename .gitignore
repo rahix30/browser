@@ -34,3 +34,6 @@ packages/
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
+
+# Ignore WebView2 cache
+MinimalBrowser/MinimalBrowser.UI/bin/Debug/net9.0-windows/MinimalBrowser.UI.exe.WebView2
